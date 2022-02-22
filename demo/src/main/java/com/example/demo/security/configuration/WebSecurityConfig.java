@@ -1,4 +1,4 @@
-package com.example.demo.configuration;
+package com.example.demo.security.configuration;
 
 import com.example.demo.appuser.AppUserService;
 import lombok.AllArgsConstructor;
