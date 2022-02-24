@@ -1,4 +1,4 @@
-package Email;
+package com.example.demo.email;
 
 import lombok.AllArgsConstructor;
 import org.slf4j.Logger;
